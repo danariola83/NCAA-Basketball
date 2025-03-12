@@ -11,6 +11,9 @@
   1. Identify and visualize key stats that contribute to a team’s success in the postseason by correlating stats with WAB metric (Wins Above Bubble) and postseason standings.
   2. Identify top teams by comparing their stats with league-wide average for each respective stat.
 
+### Architecture
+![Proposed Architecture](architecture.png)
+
 ### Conclusion
 
   Analysis of the dataset confirms what is already generally believed to be key contributors to a team’s success (i.e. offensive and defensive efficiency, rebounds, and turnover ratios). Furthermore, WAB shows noticeably stronger correlation across stats compared to a team’s postseason standings. “Intangibles” are probably a factor as to why this might be the case, especially in playoff and championship scenarios where a team’s success goes beyond hard statistics.
