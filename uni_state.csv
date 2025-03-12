@@ -1,0 +1,372 @@
+,school_old,school_adj,school,state,state_abbr
+0,North Carolina,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,North Carolina,NC
+1,Wisconsin,University of Wisconsin – Eau Claire,University of Wisconsin – Eau Claire,Wisconsin,WI
+2,Michigan,University of Michigan,University of Michigan,Michigan,MI
+3,Texas Tech,Texas Tech University,Texas Tech University,Texas,TX
+4,Gonzaga,Gonzaga University,Gonzaga University,Washington,WA
+5,Kentucky,University of Kentucky,University of Kentucky,Kentucky,KY
+6,Duke,Duke University,Duke University,North Carolina,NC
+7,Virginia,University of Virginia,University of Virginia,Virginia,VA
+8,Villanova,Villanova University,Villanova University,Pennsylvania,PA
+9,Connecticut,University of Connecticut,University of Connecticut,Connecticut,CT
+10,Louisville,University of Louisville,University of Louisville,Kentucky,KY
+11,Notre Dame,Notre Dame de Namur University,Notre Dame de Namur University,California,CA
+12,Florida St.,Florida State University,Florida State University,Florida,FL
+13,Purdue,Indiana University – Purdue University Indianapolis,Indiana University – Purdue University Indianapolis,Indiana,IN
+14,Kansas,University of Kansas,University of Kansas,Kansas,KS
+15,Kansas St.,Kansas State University,Kansas State University,Kansas,KS
+16,Xavier,Saint Xavier University,Saint Xavier University,Illinois,IL
+17,Arizona,University of Arizona,University of Arizona,Arizona,AZ
+18,Oregon,University of Oregon,University of Oregon,Oregon,OR
+19,Florida,University of Florida,University of Florida,Florida,FL
+20,Michigan St.,Michigan State University,Michigan State University,Michigan,MI
+21,Dayton,University of Dayton,University of Dayton,Ohio,OH
+22,Ohio St.,Ohio State University,Ohio State University,Ohio,OH
+23,Marquette,Marquette University,Marquette University,Wisconsin,WI
+24,Syracuse,Syracuse University,Syracuse University,New York,NY
+25,Oklahoma,University of Oklahoma,University of Oklahoma,Oklahoma,OK
+26,Loyola Chicago,Concordia University Chicago,Concordia University Chicago,Illinois,IL
+27,South Carolina,University of South Carolina Aiken,University of South Carolina Aiken,South Carolina,SC
+28,Auburn,Auburn University,Auburn University,Alabama,AL
+29,Wichita St.,Wichita State University,Wichita State University,Kansas,KS
+30,Duquesne,Duquesne University,Duquesne University,Pennsylvania,PA
+31,Fordham,Fordham University,Fordham University,New York,NY
+32,George Mason,George Mason University,George Mason University,Virginia,VA
+33,George Washington,George Washington University,George Washington University,Washington D.C.,DC
+34,La Salle,La Salle University,La Salle University,Pennsylvania,PA
+35,Massachusetts,University of Massachusetts Amherst,University of Massachusetts Amherst,Massachusetts,MA
+36,Rhode Island,University of Rhode Island,University of Rhode Island,Rhode Island,RI
+37,Richmond,University of Richmond,University of Richmond,Virginia,VA
+38,Saint Joseph's,Saint Joseph’s College of Maine,Saint Joseph’s College of Maine,Maine,ME
+39,Saint Louis,Saint Louis University,Saint Louis University,Missouri,MO
+40,St. Bonaventure,St. Bonaventure University,St. Bonaventure University,New York,NY
+41,Davidson,Davidson College,Davidson College,North Carolina,NC
+42,VCU,Virginia Commonwealth University,Virginia Commonwealth University,Virginia,VA
+43,Boston College,Boston College,Boston College,Massachusetts,MA
+44,Clemson,Clemson University,Clemson University,South Carolina,SC
+45,Georgia Tech,Georgia Institute of Technology,Georgia Institute of Technology,Georgia,GA
+46,Miami FL,Miami University,Miami University,Ohio,OH
+47,Pittsburgh,University of Pittsburgh,University of Pittsburgh,Pennsylvania,PA
+48,Virginia Tech,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Virginia,VA
+49,Wake Forest,Wake Forest University,Wake Forest University,North Carolina,NC
+50,North Carolina St.,North Carolina State University,North Carolina State University,North Carolina,NC
+51,Binghamton,Binghamton University,Binghamton University,New York,NY
+52,Hartford,University of Hartford,University of Hartford,Connecticut,CT
+53,Maine,University of Maine,University of Maine,Maine,ME
+54,New Hampshire,University of New Hampshire,University of New Hampshire,New Hampshire,NH
+55,Stony Brook,Stony Brook University,Stony Brook University,New York,NY
+56,UMass Lowell,University of Massachusetts Lowell,University of Massachusetts Lowell,Massachusetts,MA
+57,UMBC,"University of Maryland, Baltimore","University of Maryland, Baltimore",Maryland,MD
+58,Vermont,University of Vermont,University of Vermont,Vermont,VT
+59,Albany,University at Albany,University at Albany,New York,NY
+60,East Carolina,East Carolina University,East Carolina University,North Carolina,NC
+61,Houston,Houston Baptist University,Houston Baptist University,Texas,TX
+62,Memphis,University of Memphis,University of Memphis,Tennessee,TN
+63,South Florida,University of South Florida,University of South Florida,Florida,FL
+64,Temple,Temple University,Temple University,Pennsylvania,PA
+65,Tulane,Tulane University,Tulane University,Louisiana,LA
+66,Tulsa,University of Tulsa,University of Tulsa,Oklahoma,OK
+67,UCF,University of Central Florida,University of Central Florida,Florida,FL
+68,SMU,Southern Methodist University,Southern Methodist University,Texas,TX
+69,Florida Gulf Coast,Florida Gulf Coast University,Florida Gulf Coast University,Florida,FL
+70,Jacksonville,Jacksonville State University,Jacksonville State University,Alabama,AL
+71,Kennesaw St.,Kennesaw State University,Kennesaw State University,Georgia,GA
+72,Lipscomb,Lipscomb University,Lipscomb University,Tennessee,TN
+73,Northern Kentucky,Northern Kentucky University,Northern Kentucky University,Kentucky,KY
+74,Stetson,Stetson University,Stetson University,Florida,FL
+75,USC Upstate,University of South Carolina Upstate,University of South Carolina Upstate,South Carolina,SC
+76,NJIT,New Jersey Institute of Technology,New Jersey Institute of Technology,New Jersey,NJ
+77,North Florida,University of North Florida,University of North Florida,Florida,FL
+78,North Alabama,University of North Alabama,University of North Alabama,Alabama,AL
+79,Illinois,University of Illinois at Chicago,University of Illinois at Chicago,Illinois,IL
+80,Minnesota,Saint Mary’s University of Minnesota,Saint Mary’s University of Minnesota,Minnesota,MN
+81,Nebraska,University of Nebraska Kearney,University of Nebraska Kearney,Nebraska,NE
+82,Northwestern,Northwestern University,Northwestern University,Illinois,IL
+83,Penn St.,Penn State Abington,Penn State Abington,Pennsylvania,PA
+84,Rutgers,Rutgers University,Rutgers University,New Jersey,NJ
+85,Indiana,Indiana University Bloomington,Indiana University Bloomington,Indiana,IN
+86,Iowa,University of Iowa,University of Iowa,Iowa,IA
+87,Maryland,"University of Maryland, Baltimore","University of Maryland, Baltimore",Maryland,MD
+88,TCU,Texas Christian University,Texas Christian University,Texas,TX
+89,Oklahoma St.,Northwestern Oklahoma State University,Northwestern Oklahoma State University,Oklahoma,OK
+90,Texas,University of Texas at Arlington,University of Texas at Arlington,Texas,TX
+91,Baylor,Baylor University,Baylor University,Texas,TX
+92,Iowa St.,Iowa State University,Iowa State University,Iowa,IA
+93,West Virginia,West Virginia University,West Virginia University,West Virginia,WV
+94,Creighton,Creighton University,Creighton University,Nebraska,NE
+95,DePaul,DePaul University,DePaul University,Illinois,IL
+96,Seton Hall,Seton Hall University,Seton Hall University,New Jersey,NJ
+97,Georgetown,Georgetown College,Georgetown College,Kentucky,KY
+98,St. John's,St. John’s College,St. John’s College,Maryland,MD
+99,St. John's,St. John’s College,St. John’s College,New Mexico,NM
+100,Butler,Butler University,Butler University,Indiana,IN
+101,Providence,Providence Christian College,Providence Christian College,California,CA
+102,Idaho,University of Idaho,University of Idaho,Idaho,ID
+103,Idaho St.,Idaho State University,Idaho State University,Idaho,ID
+104,Montana,University of Montana,University of Montana,Montana,MT
+105,Montana St.,Montana State University,Montana State University,Montana,MT
+106,North Dakota,University of North Dakota,University of North Dakota,North Dakota,ND
+107,Northern Arizona,Northern Arizona University,Northern Arizona University,Arizona,AZ
+108,Northern Colorado,University of Northern Colorado,University of Northern Colorado,Colorado,CO
+109,Portland St.,Portland State University,Portland State University,Oregon,OR
+110,Sacramento St.,"California State University, Sacramento","California State University, Sacramento",California,CA
+111,Southern Utah,Southern Utah University,Southern Utah University,Utah,UT
+112,Weber St.,Weber State University,Weber State University,Utah,UT
+113,Eastern Washington,Eastern Washington University,Eastern Washington University,Washington,WA
+114,Campbell,Campbellsville University,Campbellsville University,Kentucky,KY
+115,Charleston Southern,Charleston Southern University,Charleston Southern University,South Carolina,SC
+116,Gardner Webb,Gardner-Webb University,Gardner-Webb University,North Carolina,NC
+117,High Point,High Point University,High Point University,North Carolina,NC
+118,Liberty,Liberty University,Liberty University,Virginia,VA
+119,Longwood,Longwood University,Longwood University,Virginia,VA
+120,Presbyterian,Presbyterian College,Presbyterian College,South Carolina,SC
+121,Radford,Radford University,Radford University,Virginia,VA
+122,UNC Asheville,University of North Carolina at Asheville,University of North Carolina at Asheville,North Carolina,NC
+123,Winthrop,Winthrop University,Winthrop University,South Carolina,SC
+124,Coastal Carolina,Coastal Carolina University,Coastal Carolina University,South Carolina,SC
+125,Hampton,Hampton University,Hampton University,Virginia,VA
+126,Cal Poly,California Polytechnic State University,California Polytechnic State University,California,CA
+127,Cal St. Fullerton,"California State University, Fullerton","California State University, Fullerton",California,CA
+128,Cal St. Northridge,"California State University, Northridge","California State University, Northridge",California,CA
+129,Hawaii,University of Hawaii at Hilo,University of Hawaii at Hilo,Hawaii,HI
+130,Long Beach St.,"California State University, Long Beach","California State University, Long Beach",California,CA
+131,UC Davis,"University of California, Davis","University of California, Davis",California,CA
+132,UC Riverside,"University of California, Riverside","University of California, Riverside",California,CA
+133,UC Santa Barbara,"University of California, Santa Barbara","University of California, Santa Barbara",California,CA
+134,UC Irvine,"University of California, Irvine","University of California, Irvine",California,CA
+135,College of Charleston,College of Charleston,College of Charleston,South Carolina,SC
+136,Delaware,University of Delaware,University of Delaware,Delaware,DE
+137,Drexel,Drexel University,Drexel University,Pennsylvania,PA
+138,Elon,Elon University,Elon University,North Carolina,NC
+139,Hofstra,Hofstra University,Hofstra University,New York,NY
+140,James Madison,James Madison University,James Madison University,Virginia,VA
+141,Towson,Towson University,Towson University,Maryland,MD
+142,UNC Wilmington,University of North Carolina at Wilmington,University of North Carolina at Wilmington,North Carolina,NC
+143,William & Mary,William Carey University,William Carey University,Mississippi,MS
+144,Northeastern,Northeastern Illinois University,Northeastern Illinois University,Illinois,IL
+145,Charlotte,University of North Carolina at Charlotte,University of North Carolina at Charlotte,North Carolina,NC
+146,FIU,National University,National University,California,CA
+147,Florida Atlantic,Florida Atlantic University,Florida Atlantic University,Florida,FL
+148,Louisiana Tech,Louisiana Tech University,Louisiana Tech University,Louisiana,LA
+149,Marshall,Franklin & Marshall College,Franklin & Marshall College,Pennsylvania,PA
+150,Middle Tennessee,Middle Tennessee State University,Middle Tennessee State University,Tennessee,TN
+151,North Texas,University of North Texas,University of North Texas,Texas,TX
+152,Old Dominion,Old Dominion University,Old Dominion University,Virginia,VA
+153,Rice,Rice University,Rice University,Texas,TX
+154,Southern Miss,University of Southern Mississippi,University of Southern Mississippi,Mississippi,MS
+155,UTEP,University of Texas at El Paso,University of Texas at El Paso,Texas,TX
+156,UTSA,University of Texas at San Antonio,University of Texas at San Antonio,Texas,TX
+157,Western Kentucky,Western Kentucky University,Western Kentucky University,Kentucky,KY
+158,UAB,University of Alabama,University of Alabama,Alabama,AL
+159,Cleveland St.,Cleveland State University,Cleveland State University,Ohio,OH
+160,Detroit,University of Detroit Mercy,University of Detroit Mercy,Michigan,MI
+161,Green Bay,University of Wisconsin – Green Bay,University of Wisconsin – Green Bay,Wisconsin,WI
+162,Illinois Chicago,Illinois College,Illinois College,Illinois,IL
+163,Milwaukee,University of Wisconsin – Milwaukee,University of Wisconsin – Milwaukee,Wisconsin,WI
+164,Oakland,Oakland City University,Oakland City University,Indiana,IN
+165,Wright St.,Wright State University,Wright State University,Ohio,OH
+166,Youngstown St.,Youngstown State University,Youngstown State University,Ohio,OH
+167,Valparaiso,Valparaiso University,Valparaiso University,Indiana,IN
+168,IUPUI,Purdue University,Purdue University,Indiana,IN
+169,Brown,John Brown University,John Brown University,Arkansas,AR
+170,Columbia,Columbia College,Columbia College,Missouri,MO
+171,Columbia,Columbia College,Columbia College,South Carolina,SC
+172,Cornell,Cornell College,Cornell College,Iowa,IA
+173,Dartmouth,University of Massachusetts Dartmouth,University of Massachusetts Dartmouth,Massachusetts,MA
+174,Penn,Bloomsburg University of Pennsylvania,Bloomsburg University of Pennsylvania,Pennsylvania,PA
+175,Princeton,Princeton University,Princeton University,New Jersey,NJ
+176,Yale,Yale University,Yale University,Connecticut,CT
+177,Harvard,Harvard University,Harvard University,Massachusetts,MA
+178,Canisius,Canisius College,Canisius College,New York,NY
+179,Fairfield,Fairfield University,Fairfield University,Connecticut,CT
+180,Iona,International Baptist College,International Baptist College,Arizona,AZ
+181,Marist,Marist College,Marist College,New York,NY
+182,Monmouth,Monmouth College,Monmouth College,Illinois,IL
+183,Niagara,Niagara University,Niagara University,New York,NY
+184,Quinnipiac,Quinnipiac University,Quinnipiac University,Connecticut,CT
+185,Rider,Rider University,Rider University,New Jersey,NJ
+186,Saint Peter's,St. Peter’s University,St. Peter’s University,New Jersey,NJ
+187,Siena,Siena Heights University,Siena Heights University,Michigan,MI
+188,Manhattan,Manhattan Christian College,Manhattan Christian College,Kansas,KS
+189,Akron,University of Akron,University of Akron,Ohio,OH
+190,Ball St.,Ball State University,Ball State University,Indiana,IN
+191,Bowling Green,Bowling Green State University,Bowling Green State University,Ohio,OH
+192,Central Michigan,Central Michigan University,Central Michigan University,Michigan,MI
+193,Eastern Michigan,Eastern Michigan University,Eastern Michigan University,Michigan,MI
+194,Kent St.,Kent State University,Kent State University,Ohio,OH
+195,Miami OH,Miami University,Miami University,Ohio,OH
+196,Northern Illinois,Northern Illinois University,Northern Illinois University,Illinois,IL
+197,Ohio,Ohio University,Ohio University,Ohio,OH
+198,Toledo,University of Toledo,University of Toledo,Ohio,OH
+199,Western Michigan,Western Michigan University,Western Michigan University,Michigan,MI
+200,Buffalo,Buffalo State College,Buffalo State College,New York,NY
+201,Bethune Cookman,Bethune-Cookman University,Bethune-Cookman University,Florida,FL
+202,Coppin St.,Coppin State University,Coppin State University,Maryland,MD
+203,Delaware St.,Delaware State University,Delaware State University,Delaware,DE
+204,Florida A&M,Florida A&M University,Florida A&M University,Florida,FL
+205,Howard,Howard Payne University,Howard Payne University,Texas,TX
+206,Maryland Eastern Shore,"University of Maryland, Eastern Shore","University of Maryland, Eastern Shore",Maryland,MD
+207,Morgan St.,Morgan State University,Morgan State University,Maryland,MD
+208,Norfolk St.,Norfolk State University,Norfolk State University,Virginia,VA
+209,North Carolina A&T,University of North Carolina at Asheville,University of North Carolina at Asheville,North Carolina,NC
+210,North Carolina Central,North Carolina Central University,North Carolina Central University,North Carolina,NC
+211,Savannah St.,Savannah State University,Savannah State University,Georgia,GA
+212,South Carolina St.,South Carolina State University,South Carolina State University,South Carolina,SC
+213,Bradley,Bradley University,Bradley University,Illinois,IL
+214,Drake,Drake University,Drake University,Iowa,IA
+215,Evansville,University of Evansville,University of Evansville,Indiana,IN
+216,Illinois St.,Illinois State University,Illinois State University,Illinois,IL
+217,Indiana St.,Indiana State University,Indiana State University,Indiana,IN
+218,Missouri St.,Missouri State University,Missouri State University,Missouri,MO
+219,Southern Illinois,Southern Illinois University Carbondale,Southern Illinois University Carbondale,Illinois,IL
+220,Northern Iowa,University of Northern Iowa,University of Northern Iowa,Iowa,IA
+221,Air Force,United States Air Force Academy,United States Air Force Academy,Colorado,CO
+222,Colorado St.,Colorado State University,Colorado State University,Colorado,CO
+223,Fresno St.,Fresno Pacific University,Fresno Pacific University,California,CA
+224,Nevada,"University of Nevada, Las Vegas","University of Nevada, Las Vegas",Nevada,NV
+225,New Mexico,University of New Mexico,University of New Mexico,New Mexico,NM
+226,San Jose St.,San Jose State University,San Jose State University,California,CA
+227,UNLV,"University of Nevada, Las Vegas","University of Nevada, Las Vegas",Nevada,NV
+228,Utah St.,Utah State University,Utah State University,Utah,UT
+229,Boise St.,Boise State University,Boise State University,Idaho,ID
+230,San Diego St.,San Diego State University,San Diego State University,California,CA
+231,Wyoming,University of Wyoming,University of Wyoming,Wyoming,WY
+232,Bryant,Bryant University,Bryant University,Rhode Island,RI
+233,Central Connecticut,Central Connecticut State University,Central Connecticut State University,Connecticut,CT
+234,Fairleigh Dickinson,Fairleigh Dickinson University,Fairleigh Dickinson University,New Jersey,NJ
+235,LIU Brooklyn,Brooklyn College,Brooklyn College,New York,NY
+236,Mount St. Mary's,Mount St. Mary’s University,Mount St. Mary’s University,California,CA
+237,Mount St. Mary's,Mount St. Mary’s University,Mount St. Mary’s University,Maryland,MD
+238,Sacred Heart,Sacred Heart University,Sacred Heart University,Connecticut,CT
+239,St. Francis NY,St. Francis College,St. Francis College,New York,NY
+240,St. Francis PA,St. Francis College,St. Francis College,New York,NY
+241,Wagner,Wagner College,Wagner College,New York,NY
+242,Robert Morris,Robert Morris University,Robert Morris University,Pennsylvania,PA
+243,Austin Peay,Austin Peay State University,Austin Peay State University,Tennessee,TN
+244,Eastern Illinois,Eastern Illinois University,Eastern Illinois University,Illinois,IL
+245,Eastern Kentucky,Eastern Kentucky University,Eastern Kentucky University,Kentucky,KY
+246,Jacksonville St.,Jacksonville State University,Jacksonville State University,Alabama,AL
+247,Morehead St.,Morehead State University,Morehead State University,Kentucky,KY
+248,Murray St.,Murray State University,Murray State University,Kentucky,KY
+249,SIU Edwardsville,Southern Illinois University Edwardsville,Southern Illinois University Edwardsville,Illinois,IL
+250,Southeast Missouri St.,Southeast Missouri State University,Southeast Missouri State University,Missouri,MO
+251,Tennessee Martin,Tennessee Technological University,Tennessee Technological University,Tennessee,TN
+252,Tennessee St.,East Tennessee State University,East Tennessee State University,Tennessee,TN
+253,Tennessee Tech,Tennessee Technological University,Tennessee Technological University,Tennessee,TN
+254,Belmont,Belmont Abbey College,Belmont Abbey College,North Carolina,NC
+255,Arizona St.,Arizona State University,Arizona State University,Arizona,AZ
+256,California,"University of California, Berkeley","University of California, Berkeley",California,CA
+257,Colorado,University of Colorado,University of Colorado,Colorado,CO
+258,Oregon St.,Oregon State University,Oregon State University,Oregon,OR
+259,Stanford,Stanford University,Stanford University,California,CA
+260,USC,University of Southern California,University of Southern California,California,CA
+261,Washington,University of Washington,University of Washington,Washington,WA
+262,Washington St.,Washington State University,Washington State University,Washington,WA
+263,UCLA,"University of California, Los Angeles","University of California, Los Angeles",California,CA
+264,Utah,University of Utah,University of Utah,Utah,UT
+265,American,North American University,North American University,Texas,TX
+266,Army,United States Military Academy,United States Military Academy,New York,NY
+267,Boston University,Boston University,Boston University,Massachusetts,MA
+268,Bucknell,Bucknell University,Bucknell University,Pennsylvania,PA
+269,Colgate,Colgate University,Colgate University,New York,NY
+270,Holy Cross,Holy Cross College,Holy Cross College,Indiana,IN
+271,Lehigh,Lehigh University,Lehigh University,Pennsylvania,PA
+272,Loyola MD,Loyola Marymount University,Loyola Marymount University,California,CA
+273,Navy,United States Naval Academy,United States Naval Academy,Maryland,MD
+274,Lafayette,University of Louisiana at Lafayette,University of Louisiana at Lafayette,Louisiana,LA
+275,Appalachian St.,Appalachian State University,Appalachian State University,North Carolina,NC
+276,Arkansas Little Rock,University of Arkansas at Little Rock,University of Arkansas at Little Rock,Arkansas,AR
+277,Arkansas St.,Arkansas State University,Arkansas State University,Arkansas,AR
+278,Georgia Southern,Georgia Southern University,Georgia Southern University,Georgia,GA
+279,Louisiana Lafayette,University of Louisiana at Lafayette,University of Louisiana at Lafayette,Louisiana,LA
+280,Louisiana Monroe,University of Louisiana at Monroe,University of Louisiana at Monroe,Louisiana,LA
+281,South Alabama,University of South Alabama,University of South Alabama,Alabama,AL
+282,Texas St.,Texas State University,Texas State University,Texas,TX
+283,Troy,Troy University,Troy University,Alabama,AL
+284,UT Arlington,University of Texas at Arlington,University of Texas at Arlington,Texas,TX
+285,Georgia St.,Georgia State University,Georgia State University,Georgia,GA
+286,Little Rock,University of Arkansas at Little Rock,University of Arkansas at Little Rock,Arkansas,AR
+287,Chattanooga,University of Tennessee at Chattanooga,University of Tennessee at Chattanooga,Tennessee,TN
+288,East Tennessee St.,East Tennessee State University,East Tennessee State University,Tennessee,TN
+289,Furman,Furman University,Furman University,South Carolina,SC
+290,Mercer,Mercer University,Mercer University,Georgia,GA
+291,Samford,Samford University,Samford University,Alabama,AL
+292,The Citadel,The Citadel,The Citadel,South Carolina,SC
+293,UNC Greensboro,University of North Carolina at Greensboro,University of North Carolina at Greensboro,North Carolina,NC
+294,VMI,Virginia Military Institute,Virginia Military Institute,Virginia,VA
+295,Western Carolina,Western Carolina University,Western Carolina University,North Carolina,NC
+296,Wofford,Wofford College,Wofford College,South Carolina,SC
+297,Alabama,University of Alabama,University of Alabama,Alabama,AL
+298,Mississippi St.,Mississippi State University,Mississippi State University,Mississippi,MS
+299,Missouri,University of Missouri,University of Missouri,Missouri,MO
+300,Tennessee,University of Tennessee,University of Tennessee,Tennessee,TN
+301,Texas A&M,Texas A&M International University,Texas A&M International University,Texas,TX
+302,Vanderbilt,Vanderbilt University,Vanderbilt University,Tennessee,TN
+303,Arkansas,University of Arkansas,University of Arkansas,Arkansas,AR
+304,Georgia,University of Georgia,University of Georgia,Georgia,GA
+305,LSU,Louisiana State University of Alexandria,Louisiana State University of Alexandria,Louisiana,LA
+306,Mississippi,University of Mississippi,University of Mississippi,Mississippi,MS
+307,Abilene Christian,Abilene Christian University,Abilene Christian University,Texas,TX
+308,Central Arkansas,University of Central Arkansas,University of Central Arkansas,Arkansas,AR
+309,Houston Baptist,Houston Baptist University,Houston Baptist University,Texas,TX
+310,Incarnate Word,University of the Incarnate Word,University of the Incarnate Word,Texas,TX
+311,Lamar,Lamar University,Lamar University,Texas,TX
+312,McNeese St.,McNeese State University,McNeese State University,Louisiana,LA
+313,New Orleans,Loyola University New Orleans,Loyola University New Orleans,Louisiana,LA
+314,Nicholls St.,Nicholls State University,Nicholls State University,Louisiana,LA
+315,Northwestern St.,Northwestern State University,Northwestern State University,Louisiana,LA
+316,Sam Houston St.,Sam Houston State University,Sam Houston State University,Texas,TX
+317,Southeastern Louisiana,Southeastern Louisiana University,Southeastern Louisiana University,Louisiana,LA
+318,Texas A&M Corpus Chris,Texas A&M University – Corpus Christi,Texas A&M University – Corpus Christi,Texas,TX
+319,Stephen F. Austin,Stephen F. Austin State University,Stephen F. Austin State University,Texas,TX
+320,Denver,University of Denver,University of Denver,Colorado,CO
+321,IPFW,Purdue University,Purdue University,Indiana,IN
+322,Nebraska Omaha,University of Nebraska Omaha,University of Nebraska Omaha,Nebraska,NE
+323,Oral Roberts,Oral Roberts University,Oral Roberts University,Oklahoma,OK
+324,South Dakota,University of South Dakota,University of South Dakota,South Dakota,SD
+325,South Dakota St.,South Dakota State University,South Dakota State University,South Dakota,SD
+326,Western Illinois,Western Illinois University,Western Illinois University,Illinois,IL
+327,North Dakota St.,North Dakota State University,North Dakota State University,North Dakota,ND
+328,Fort Wayne,Purdue University Fort Wayne,Purdue University Fort Wayne,Indiana,IN
+329,Alabama A&M,Alabama A&M University,Alabama A&M University,Alabama,AL
+330,Alabama St.,Alabama State University,Alabama State University,Alabama,AL
+331,Alcorn St.,Alcorn State University,Alcorn State University,Mississippi,MS
+332,Arkansas Pine Bluff,University of Arkansas at Pine Bluff,University of Arkansas at Pine Bluff,Arkansas,AR
+333,Grambling St.,Grambling State University,Grambling State University,Louisiana,LA
+334,Jackson St.,Jackson State University,Jackson State University,Mississippi,MS
+335,Mississippi Valley St.,Mississippi Valley State University,Mississippi Valley State University,Mississippi,MS
+336,Prairie View A&M,Prairie View A&M University,Prairie View A&M University,Texas,TX
+337,Southern,Birmingham Southern College,Birmingham Southern College,Alabama,AL
+338,Texas Southern,Texas Southern University,Texas Southern University,Texas,TX
+339,Cal St. Bakersfield,"California State University, Bakersfield","California State University, Bakersfield",California,CA
+340,Chicago St.,Chicago State University,Chicago State University,Illinois,IL
+341,Grand Canyon,Grand Canyon University,Grand Canyon University,Arizona,AZ
+342,Seattle,Seattle Pacific University,Seattle Pacific University,Washington,WA
+343,UMKC,University of Missouri,University of Missouri,Missouri,MO
+344,UT Rio Grande Valley,University of Texas Rio Grande Valley,University of Texas Rio Grande Valley,Texas,TX
+345,Utah Valley,Utah Valley University,Utah Valley University,Utah,UT
+346,New Mexico St.,New Mexico State University,New Mexico State University,New Mexico,NM
+347,Cal Baptist,International Baptist College,International Baptist College,Arizona,AZ
+348,Loyola Marymount,Loyola Marymount University,Loyola Marymount University,California,CA
+349,Pacific,University of the Pacific,University of the Pacific,California,CA
+350,Pepperdine,Pepperdine University,Pepperdine University,California,CA
+351,Portland,Portland State University,Portland State University,Oregon,OR
+352,Saint Mary's,Saint Mary’s College of California,Saint Mary’s College of California,California,CA
+353,San Diego,San Diego Christian College,San Diego Christian College,California,CA
+354,San Francisco,San Francisco State University,San Francisco State University,California,CA
+355,Santa Clara,Santa Clara University,Santa Clara University,California,CA
+356,BYU,Brigham Young University – Hawaii,Brigham Young University – Hawaii,Hawaii,HI
+357,Cincinnati,Cincinnati Christian University,Cincinnati Christian University,Ohio,OH
+358,UC San Diego,"University of California, San Diego","University of California, San Diego",California,CA
+359,Dixie St.,Dixie State University,Dixie State University,Utah,UT
+360,Merrimack,Merrimack College,Merrimack College,Massachusetts,MA
+361,Tarleton St.,Tarleton State University,Tarleton State University,Texas,TX
+362,Bellarmine,Bellarmine University,Bellarmine University,Kentucky,KY
+363,Utah Tech,Montana Technological University,Montana Technological University,Montana,MT
+364,St. Thomas,St. Thomas University,St. Thomas University,Florida,FL
+365,Houston Christian,Ohio Christian University,Ohio Christian University,Ohio,OH
+366,Lindenwood,Lindenwood University,Lindenwood University,Missouri,MO
+367,Texas A&M Commerce,Texas A&M University – Commerce,Texas A&M University – Commerce,Texas,TX
+368,Stonehill,Stonehill College,Stonehill College,Massachusetts,MA
+369,Southern Indiana,University of Southern Indiana,University of Southern Indiana,Indiana,IN
+370,Queens,Queens College,Queens College,New York,NY
