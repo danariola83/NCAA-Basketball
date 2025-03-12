@@ -1,19 +1,21 @@
-Design Document
+# NCAA Basketball Data Analysis and Visualization
 
-Problem Statement
+## This project extracts data from Kaggle API, transforms it by mapping certain fields using data scraped from various websites, identifies and queries stats that correlate with a team's playoff success, which is then used to create a Tableau dashboard.
+
+### Problem Statement
 
   There are 368 teams competing in NCAA Basketball within 34 athletic conferences, and stats that lead to team standing need to be defined.
 
-Proposed Solution
+### Proposed Solution
 
   1. Identify and visualize key stats that contribute to a team’s success in the postseason by correlating stats with WAB metric (Wins Above Bubble) and postseason standings.
   2. Identify top teams by comparing their stats with league-wide average for each respective stat.
 
-Conclusion
+### Conclusion
 
   Analysis of the dataset confirms what is already generally believed to be key contributors to a team’s success (i.e. offensive and defensive efficiency, rebounds, and turnover ratios). Furthermore, WAB shows noticeably stronger correlation across stats compared to a team’s postseason standings. “Intangibles” are probably a factor as to why this might be the case, especially in playoff and championship scenarios where a team’s success goes beyond hard statistics.
 
-Recommendation
+### Recommendation
 
   1. Look into strength of schedule
   2. Key in on stats that seem to contribute the most to WAB:
@@ -23,7 +25,7 @@ Recommendation
     d. Turnover Rate (TOR)
   3. Consider an ordinal regression with postseason standing as the response variable
 
-Dashboard Features
+### Dashboard Features
 
   1. Filter by team/school and year
   2. Summary of stats that correlate the most with playoff success
