@@ -1,6 +1,6 @@
 # NCAA Basketball Data Analysis and Visualization
 
-## This project extracts data from Kaggle API, transforms it by mapping certain fields using data scraped from various websites, identifies and queries stats that correlate with a team's playoff success, which is then used to create a Tableau dashboard.
+This project extracts data from Kaggle API, transforms it by mapping certain fields using data scraped from various websites, identifies and queries stats that correlate with a team's playoff success, which is then used to create a Tableau dashboard.
 
 ### Problem Statement
 
